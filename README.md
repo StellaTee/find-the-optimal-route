@@ -1,6 +1,6 @@
 # find-the-optimal-route
 
-This project implements the Dijkstra algorithm to find the most optimal route while following constraints. The constraints include whether to pick up a friend, the time required to travel to the destination, and the shortest total driving time. If giving a ride to a friend increases the total driving time, I will not give a ride.
+This project implements the Dijkstra algorithm to find the most optimal route while following constraints. The constraints include whether to pick up a friend, the time required to travel to the destination, and the shortest total driving time. If giving a ride to a friend increases the total driving time, I will not give a ride. My solution is a multi-layer graph approach.
 
 Please note that there is a law in the country that prohibits driving in a carpool lane while alone in the car.
 
